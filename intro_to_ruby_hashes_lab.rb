@@ -18,8 +18,8 @@ def monopoly_with_third_tier
     :pieces => 4,
     :names => {
       :reading_railroad => 4 ,
-      :key => 4,
-      :key => 4,
+      :pennsylvania_railroad => 4,
+      :b_and_o_railroad => 4,
       :key => 4
     },
     :rent_in_dollars => {
