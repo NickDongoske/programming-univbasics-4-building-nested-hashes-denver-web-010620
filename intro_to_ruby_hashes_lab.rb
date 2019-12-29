@@ -1,6 +1,6 @@
 def base_hash
 new =	{
-  :key
+  :name => "nick"
 }
 end
 
